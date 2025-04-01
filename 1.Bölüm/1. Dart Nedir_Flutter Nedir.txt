@@ -1,0 +1,9 @@
+* Dart Nedir?
+- Programlama dilidir.
+
+
+* Flutter Nedir?
+- Dart dili kullanılarak oluşturulmuş bir framework'dür.
+
+** Yani genel olarak flutter'da her şey widget'dır. Biz bu widgetları kullanarak uygulamalarımızı geliştiricez.
+Bu uygulamaları yaparken kullanacağımız bunları yöneteceğimiz dil dart dilidir.
